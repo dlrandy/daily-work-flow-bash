@@ -1,0 +1,8 @@
+{
+  "name": "daily-work-flow-bash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dlrandy/daily-work-flow-bash.git",
+  "author": "dlrandy <1208484996@qq.com>",
+  "license": "MIT"
+}

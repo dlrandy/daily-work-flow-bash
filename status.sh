@@ -1,0 +1,12 @@
+# exit 1
+ok() {
+  return 0
+}
+fail() {
+  return 1
+}
+
+fail
+echo $?
+ok
+echo $?
