@@ -61,4 +61,9 @@ echo $?
 chmod +x variables.sh 
 
 
-```
+ alias ll="ls -laG"
+ type ll
+source ~/.bash_profile
+
+echo $PATH
+which grep

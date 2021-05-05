@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/dlrandy/daily-work-flow-bash.git",
   "author": "dlrandy <1208484996@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  }
 }
